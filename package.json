@@ -14,9 +14,7 @@
     "express": "~4.13.1",
     "morgan": "~1.6.1",
     "peer": "^0.2.8",
-    "serve-favicon": "~2.3.0"
-  },
-  "devDependencies": {
+    "serve-favicon": "~2.3.0",
     "gulp": "^3.9.0",
     "gulp-bower": "0.0.10",
     "gulp-tsd": "0.0.4",
