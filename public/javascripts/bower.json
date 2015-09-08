@@ -1,0 +1,20 @@
+{
+  "name": "javascripts",
+  "version": "0.0.0",
+  "authors": [
+    "Toshiya Nakakura <t.nakakura@ntt.com>"
+  ],
+  "description": "for bower install",
+  "license": "MIT",
+  "homepage": "http://blog.fff.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "peerjs": "~0.3.14"
+  }
+}
