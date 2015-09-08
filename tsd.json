@@ -1,0 +1,12 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "eventemitter2/eventemitter2.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "lodash/lodash.d.ts": {
+      "commit": "a278148f0ec80f2aa9a2ec22f5089308f74dda47"
+    },
+    "peerjs/peerjs.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    },
+    "webrtc/RTCPeerConnection.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    },
+    "es6-promise/es6-promise.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    },
+    "webrtc/MediaStream.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    },
+    "eventemitter2/eventemitter2.d.ts": {
+      "commit": "9c7621153358a6e51ec1ad5e822697b5aba3875a"
+    }
+  }
+}
